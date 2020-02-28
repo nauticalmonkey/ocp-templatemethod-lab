@@ -1,4 +1,4 @@
-package lab.assignment.beforerefactoring;
+package Lab.assignment.beforerefactoring;
 
 public class CoffeeMaker {
 

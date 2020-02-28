@@ -1,6 +1,6 @@
-package lab.assignment.beforerefactoring.clientcode;
+package Lab.assignment.beforerefactoring.clientcode;
 
-import lab.assignment.beforerefactoring.CoffeeMaker;
+import Lab.assignment.beforerefactoring.CoffeeMaker;
 
 public class CoffeeClient {
 
